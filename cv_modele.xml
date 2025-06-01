@@ -1,0 +1,26 @@
+<CV>
+    <InformationsPersonnelles>
+        <Nom>Jean Dupont</Nom>
+        <Adresse>10 rue des Lilas, Paris</Adresse>
+        <Email>jean.dupont@example.com</Email>
+        <Téléphone>0601020304</Téléphone>
+    </InformationsPersonnelles>
+    <Éducation>
+        <Diplôme>Master Informatique</Diplôme>
+        <Établissement>ECE Paris</Établissement>
+        <Années>2020-2022</Années>
+    </Éducation>
+    <Expérience>
+        <Emploi>
+            <Titre>Développeur Web</Titre>
+            <Entreprise>WebCorp</Entreprise>
+            <Années>2022-2023</Années>
+            <Description>Développement de sites et applications.</Description>
+        </Emploi>
+    </Expérience>
+    <Compétences>
+        <Compétence>PHP</Compétence>
+        <Compétence>MySQL</Compétence>
+        <Compétence>JavaScript</Compétence>
+    </Compétences>
+</CV>
